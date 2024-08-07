@@ -2,3 +2,5 @@ This is a test to se how fetch vs. pull works.
 
 This is a change made in branch1.
 Another branch1 change.
+A change in branch2.
+Bla bla branch2.
